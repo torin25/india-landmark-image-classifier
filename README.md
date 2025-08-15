@@ -10,7 +10,7 @@ Recognize famous Indian monuments in images using deep learning!
 | Golden Temple                                   | Gateway of India                                | Victoria Memorial                               |
 | Confidence: 99.53%                              | Confidence: 91.58%                              | Confidence: 76.67%                              |
 
-> _Above: Screenshots showing successful predictions from our deployed app._
+> _Above: Screenshots showing successful predictions from the app._
 
 ---
 
@@ -38,7 +38,12 @@ Users can upload images via a simple web UI and get instant predictions of the l
 - **Deep Learning backend** with TensorFlow/Keras
 - **Fast Flask API** for predictions
 - **User-friendly frontend**: HTML, CSS, JS (no React needed)
-- **Monument classes covered**: Taj Mahal, Gateway of India, Lotus Temple, and more!
+- **Monument classes covered**: 'Ajanta Caves', 'Charar-E- Sharif', 'Chhota_Imambara', 'Ellora Caves',
+  'Fatehpur Sikri', 'Gateway of India', 'Humayun_s Tomb', 'India gate pics',
+  'Khajuraho', 'Sun Temple Konark', 'alai_darwaza', 'alai_minar',
+  'basilica_of_bom_jesus', 'charminar', 'golden temple', 'hawa mahal pics',
+  'iron_pillar', 'jamali_kamali_tomb', 'lotus_temple', 'mysore_palace',
+  'qutub_minar', 'tajmahal', 'tanjavur temple', 'victoria memorial'.
 - **Screenshot proofs included** for easy verification
 
 ---
@@ -82,7 +87,7 @@ Users can upload images via a simple web UI and get instant predictions of the l
 
 ## Folder Structure
 
-.
+<pre> ```.
 ├── notebooks/
 │ └── project-notebook.ipynb
 ├── backend/
@@ -101,6 +106,7 @@ Users can upload images via a simple web UI and get instant predictions of the l
 ├── README.md
 ├── .gitignore
 └── LICENSE
+``` </pre>
 
 ---
 
@@ -116,6 +122,3 @@ Users can upload images via a simple web UI and get instant predictions of the l
 
 - _Dataset_: [Indian Monuments Dataset](https://www.kaggle.com/danushkumarv/indian-monuments-image-dataset)
 - _Developed by_: [Tejas M](https://github.com/torin25)
--
-
-_For any questions or suggestions, feel free to open an issue or pull request!_
