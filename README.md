@@ -121,4 +121,3 @@ Users can upload images via a simple web UI and get instant predictions of the l
 ## Credits
 
 - _Dataset_: [Indian Monuments Dataset](https://www.kaggle.com/danushkumarv/indian-monuments-image-dataset)
-- _Developed by_: [Tejas M](https://github.com/torin25)
