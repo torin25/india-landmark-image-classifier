@@ -53,7 +53,7 @@ Users can upload images via a simple web UI and get instant predictions of the l
 1. **Clone the repository:**
 
    ```
-   git clone https://github.com/yourusername/indian-landmark-classifier.git
+   git clone https://github.com/torin25/indian-landmark-classifier.git
    cd indian-landmark-classifier
    ```
 
